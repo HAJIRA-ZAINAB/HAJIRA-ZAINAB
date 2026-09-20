@@ -17,7 +17,10 @@ I'm looking to collaborate on beginner friendly projects
 - GitHub: HAJIRA-ZAINAB
 
  Setup
-user.name=Hajira Zainab
+
+user.name=HAJIRA-ZAINAB
 user.email=hajirazainab1445@gmail.com
- Links
-- Portfolio: https://HAJIRA-ZAINAB.github.io
+
+Links
+
+https:/HAJIRA-ZAINAB.github.io
