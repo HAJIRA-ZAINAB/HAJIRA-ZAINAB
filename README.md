@@ -1,14 +1,21 @@
+Hi there, I'm Hajira Zainab 👋
 
-# Hi there, I'm Hajira Zainab 👋
+About Me
+I'm currently learning Frontend Development with IYF Season 12
+I'm interested in Web Development and Technology
+I'm looking to collaborate on beginner friendly projects
 
-**Git & GitHub - Season 12**
+Skills I'm Building
+- Git and GitHub
+- HTML, CSS, JavaScript
 
-- 💙 Learning Git, GitHub & GitHub Pages
-- 💙 Exploring Markdown
-- 💙 GitHub: HAJIRA-ZAINAB
+Current Projects
+- CommunityHub Team Project - Learning team collaboration
 
-### My Progress
-- ✅ Created profile repo
-- ✅ Created HAJIRA-ZAINAB.github.io
+How to Reach Me
+- Email: hajirazainab1445@gmail.com
+- GitHub: HAJIRA-ZAINAB
 
-My site: https://HAJIRA-ZAINAB.github.io
+Setup
+user.name=Hajira Zainab
+user.email=hajirazainab1445@gmail.com
