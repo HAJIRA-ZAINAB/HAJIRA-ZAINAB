@@ -1,17 +1,15 @@
-# MARKDOWN PRACTICE - HAJIRA-ZAINAB
+
+# Hajira Zainab - Nairobi, Kenya
 
 ## 1. Headings
-# HEADING 1
-## Heading 2
-### Heading 3
+# Hajira Zainab
+## Web Developer
 
-## 2. Bold and Italic
-**This is bold**
-*This is italic*
-***Bold and italic***
+## 2. Bold Italic
+**Bold** *Italic* ***Both***
 
 ## 3. Links
-[Portfolio](https://HAJIRA-ZAINAB.github.io)
+[https://hajira-zainab.github.io](https://hajira-zainab.github.io)
 [GitHub](https://github.com/HAJIRA-ZAINAB)
 
 ## 4. List
@@ -28,7 +26,11 @@
 | Skill | Level |
 | --- | --- |
 | HTML | Beginner |
-| GitHub | Done |
 
 ## 7. Quote
-> Keep learning!
+> My dream is to build websites - Hajira
+
+## 8. Code
+```html
+<h1>Hi</h1>
+<p>https://hajira-zainab.github.io</p>
