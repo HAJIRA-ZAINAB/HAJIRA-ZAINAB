@@ -23,5 +23,5 @@ user.email=hajirazainab1445@gmail.com
 
 ### Links
 - Live Site: https://HAJIRA-ZAINAB.github.io
-- Markdown Practice: https://github.com/HAJIRA-ZAINAB/HAJIRA-ZAINAB/blob/main/markdown-practise.md
+- Markdown Practice: https://github.com/HAJIRA-ZAINAB/HAJIRA-ZAINAB/blob/main/markdown-practice.md
 - Team Repo: [wait for your team, paste link here]
