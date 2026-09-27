@@ -21,6 +21,7 @@ I'm looking to collaborate on beginner friendly projects
 user.name=HAJIRA-ZAINAB
 user.email=hajirazainab1445@gmail.com
 
-Links
-
-https://HAJIRA-ZAINAB.github.io
+### Links
+- Live Site: https://HAJIRA-ZAINAB.github.io
+- Markdown Practice: https://github.com/HAJIRA-ZAINAB/HAJIRA-ZAINAB/blob/main/markdown-practise.md
+- Team Repo: [wait for your team, paste link here]
